@@ -1,1 +1,1 @@
-<p align="center"> <a href="https://srclo.net"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=250&size=27&duration=3500&pause=850&color=F7F7F7&center=true&width=435&lines=Heya%2C+I'm+xer.;srclo.net;I+use+FreeBSD%2C+btw.;FreeBSD+user..." alt="Heya, I'm xer." /></a>
+<p align="center"> <a href="https://srclo.net"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=250&size=27&duration=3500&pause=850&color=F7F7F7&center=true&width=435&lines=Heya%2C+I'm+xer.;srclo.net;I+use+FreeBSD+btw.;FreeBSD+user..." alt="Heya, I'm xer." /></a>
